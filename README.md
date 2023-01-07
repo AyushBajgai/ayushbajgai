@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.linkpicture.com/q/pngwing.com-3.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://www.linkpicture.com/q/pngwing.com-3.png" height="175px"/></a> -->
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Bajgai</h1>
 <h3 align="center">I'm a passionate Frontend Developer from Nepal</h3>
