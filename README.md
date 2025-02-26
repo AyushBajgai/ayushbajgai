@@ -7,15 +7,16 @@
 ## About Me
 <br/>
 
-- I’m currently studying at **[The British College](https://www.thebritishcollege.edu.np/)**
+- I’m currently studying Master's on Data Science at **[The University of Canberra](https://www.canberra.edu.au/)**
+- I graduated with a BSc (Hons) in Computing from **[The British College](https://www.thebritishcollege.edu.np/)**
 
-- I’m currently learning **Laravel and Flutter**
+- I’m currently learning **Data Analysis, Deep Learning & Machine Learning Algorithms**
 
 - I’m looking to collaborate on **OpenSource Projects**
 
-- All of my projects are available at **[My Portfolio](https://github.com/AyushBajgai)**
+- Find me more at **[My Portfolio](https://www.ayushbajgai.com/)**
 
-- How to reach me **ayushbajgai@gmail.com**
+- Reach me via **ayushbajgai@gmail.com**
 
 - Fun fact **I play football and love photography very often.**
   <br/>
